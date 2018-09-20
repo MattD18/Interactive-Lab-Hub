@@ -1,6 +1,6 @@
 Ideation
 
-![Ideas 1-3](https://github.com/MattD18/Interactive-Lab-Hub/blob/master/IMG_2369.JPG)
+!(Ideas 1-3)[https://github.com/MattD18/Interactive-Lab-Hub/blob/master/IMG_2369.JPG]
 
 ![Ideas 4-6](https://github.com/MattD18/Interactive-Lab-Hub/blob/master/IMG_2370.JPG)
 
