@@ -16,8 +16,8 @@ Completed Lab Preps for Matthew Dalton
 
 2. [Lab 2 Prep](//github.com/MattD18/IDD-Fa18-Lab2/blob/master/Lab-Prep/Sketch-Ideas.md)
 
-3. [Lab 3 Prep](https://github.com/MattD18/IDD-Fa18-Lab3/tree/master/Lab-Prep)
+3. [Lab 3 Prep](//github.com/MattD18/IDD-Fa18-Lab3/tree/master/Lab-Prep)
 
-4. [Lab 4 Prep](https://github.com/MattD18/Interactive-Lab-Hub/blob/master/Lab-4-prep.MD)
+4. [Lab 4 Prep](//github.com/MattD18/IDD-Fa18-Lab4/tree/master/Lab-Prep)
 
 
