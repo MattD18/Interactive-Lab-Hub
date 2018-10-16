@@ -26,6 +26,6 @@ Completed Lab Preps for Matthew Dalton
 
 5. [Lab 5 Prep](//github.com/MattD18/IDD-Fa18-Lab5/tree/master/Lab-Prep)
 
-6. [Lab 5 Prep]()
+6. [Lab 6 Prep]()
 
 
