@@ -14,6 +14,9 @@ Completed Labs for Matthew Dalton
 
 6. [Lab 6](//github.com/MattD18/IDD-Fa18-Lab6)
 
+7. [Lab 7]()
+
+
 Completed Lab Preps for Matthew Dalton
 
 1. [Lab 1 Prep]()
@@ -28,4 +31,5 @@ Completed Lab Preps for Matthew Dalton
 
 6. [Lab 6 Prep]()
 
+7. [Lab 7 Prep](//github.com/MattD18/IDD-Fa18-Lab7)
 
