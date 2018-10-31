@@ -33,3 +33,7 @@ Completed Lab Preps for Matthew Dalton
 
 7. [Lab 7 Prep]()
 
+Final Project for Matthew Dalton
+
+1. [Final Project](https://github.com/MattD18/IDD-Fa18-Final-Project)
+
